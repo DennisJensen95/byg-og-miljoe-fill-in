@@ -1,0 +1,833 @@
+{
+    "ParsedResults": [
+        {
+            "TextOverlay": {
+                "Lines": [
+                    {
+                        "LineText": "Grundejer:",
+                        "Words": [
+                            {
+                                "WordText": "Grundejer:",
+                                "Left": 138.0,
+                                "Top": 385.0,
+                                "Height": 31.0,
+                                "Width": 143.0
+                            }
+                        ],
+                        "MaxHeight": 31.0,
+                        "MinTop": 385.0
+                    },
+                    {
+                        "LineText": "Udførelsesadresse:",
+                        "Words": [
+                            {
+                                "WordText": "Udførelsesadresse:",
+                                "Left": 139.0,
+                                "Top": 459.0,
+                                "Height": 26.0,
+                                "Width": 258.0
+                            }
+                        ],
+                        "MaxHeight": 26.0,
+                        "MinTop": 459.0
+                    },
+                    {
+                        "LineText": "Rekvirent:",
+                        "Words": [
+                            {
+                                "WordText": "Rekvirent:",
+                                "Left": 139.0,
+                                "Top": 596.0,
+                                "Height": 25.0,
+                                "Width": 137.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 596.0
+                    },
+                    {
+                        "LineText": "Telefon:",
+                        "Words": [
+                            {
+                                "WordText": "Telefon:",
+                                "Left": 136.0,
+                                "Top": 670.0,
+                                "Height": 25.0,
+                                "Width": 110.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 670.0
+                    },
+                    {
+                        "LineText": "Emailadresse:",
+                        "Words": [
+                            {
+                                "WordText": "Emailadresse:",
+                                "Left": 139.0,
+                                "Top": 744.0,
+                                "Height": 25.0,
+                                "Width": 189.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 744.0
+                    },
+                    {
+                        "LineText": "Kommune:",
+                        "Words": [
+                            {
+                                "WordText": "Kommune:",
+                                "Left": 139.0,
+                                "Top": 872.0,
+                                "Height": 23.0,
+                                "Width": 144.0
+                            }
+                        ],
+                        "MaxHeight": 23.0,
+                        "MinTop": 872.0
+                    },
+                    {
+                        "LineText": "Matrikel:",
+                        "Words": [
+                            {
+                                "WordText": "Matrikel:",
+                                "Left": 139.0,
+                                "Top": 945.0,
+                                "Height": 24.0,
+                                "Width": 115.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 945.0
+                    },
+                    {
+                        "LineText": "Placering:",
+                        "Words": [
+                            {
+                                "WordText": "Placering:",
+                                "Left": 139.0,
+                                "Top": 1019.0,
+                                "Height": 30.0,
+                                "Width": 132.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 1019.0
+                    },
+                    {
+                        "LineText": "Størrelse:",
+                        "Words": [
+                            {
+                                "WordText": "Størrelse:",
+                                "Left": 138.0,
+                                "Top": 1093.0,
+                                "Height": 25.0,
+                                "Width": 129.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 1093.0
+                    },
+                    {
+                        "LineText": "Fabrikat/Type:",
+                        "Words": [
+                            {
+                                "WordText": "Fabrikat/Type:",
+                                "Left": 139.0,
+                                "Top": 1167.0,
+                                "Height": 31.0,
+                                "Width": 194.0
+                            }
+                        ],
+                        "MaxHeight": 31.0,
+                        "MinTop": 1167.0
+                    },
+                    {
+                        "LineText": "Etableringsår:",
+                        "Words": [
+                            {
+                                "WordText": "Etableringsår:",
+                                "Left": 139.0,
+                                "Top": 1238.0,
+                                "Height": 34.0,
+                                "Width": 188.0
+                            }
+                        ],
+                        "MaxHeight": 34.0,
+                        "MinTop": 1238.0
+                    },
+                    {
+                        "LineText": "Fabrikationsnr.:",
+                        "Words": [
+                            {
+                                "WordText": "Fabrikationsnr.:",
+                                "Left": 139.0,
+                                "Top": 1315.0,
+                                "Height": 25.0,
+                                "Width": 211.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 1315.0
+                    },
+                    {
+                        "LineText": "Typenr:",
+                        "Words": [
+                            {
+                                "WordText": "Typenr:",
+                                "Left": 136.0,
+                                "Top": 1391.0,
+                                "Height": 30.0,
+                                "Width": 104.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 1391.0
+                    },
+                    {
+                        "LineText": "Indhold:",
+                        "Words": [
+                            {
+                                "WordText": "Indhold:",
+                                "Left": 139.0,
+                                "Top": 1464.0,
+                                "Height": 24.0,
+                                "Width": 107.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1464.0
+                    },
+                    {
+                        "LineText": "Opgave udført:",
+                        "Words": [
+                            {
+                                "WordText": "Opgave",
+                                "Left": 138.0,
+                                "Top": 1609.0,
+                                "Height": 30.0,
+                                "Width": 104.0
+                            },
+                            {
+                                "WordText": "udført:",
+                                "Left": 254.0,
+                                "Top": 1609.0,
+                                "Height": 25.0,
+                                "Width": 88.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 1609.0
+                    },
+                    {
+                        "LineText": "Dato for udførelse:",
+                        "Words": [
+                            {
+                                "WordText": "Dato",
+                                "Left": 139.0,
+                                "Top": 1702.0,
+                                "Height": 24.0,
+                                "Width": 62.0
+                            },
+                            {
+                                "WordText": "for",
+                                "Left": 211.0,
+                                "Top": 1701.0,
+                                "Height": 25.0,
+                                "Width": 38.0
+                            },
+                            {
+                                "WordText": "udførelse:",
+                                "Left": 260.0,
+                                "Top": 1701.0,
+                                "Height": 25.0,
+                                "Width": 133.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 1701.0
+                    },
+                    {
+                        "LineText": "Internt sagsnr.:",
+                        "Words": [
+                            {
+                                "WordText": "Internt",
+                                "Left": 139.0,
+                                "Top": 1776.0,
+                                "Height": 24.0,
+                                "Width": 90.0
+                            },
+                            {
+                                "WordText": "sagsnr.:",
+                                "Left": 240.0,
+                                "Top": 1781.0,
+                                "Height": 25.0,
+                                "Width": 105.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 1776.0
+                    },
+                    {
+                        "LineText": "Noter:",
+                        "Words": [
+                            {
+                                "WordText": "Noter:",
+                                "Left": 139.0,
+                                "Top": 1850.0,
+                                "Height": 24.0,
+                                "Width": 81.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1850.0
+                    },
+                    {
+                        "LineText": "Fensmark A",
+                        "Words": [
+                            {
+                                "WordText": "Fensmark",
+                                "Left": 1119.0,
+                                "Top": 90.0,
+                                "Height": 60.0,
+                                "Width": 302.0
+                            },
+                            {
+                                "WordText": "A",
+                                "Left": 1416.0,
+                                "Top": 72.0,
+                                "Height": 102.0,
+                                "Width": 118.0
+                            }
+                        ],
+                        "MaxHeight": 102.0,
+                        "MinTop": 72.0
+                    },
+                    {
+                        "LineText": "Sløjfningsattest",
+                        "Words": [
+                            {
+                                "WordText": "Sløjfningsattest",
+                                "Left": 608.0,
+                                "Top": 249.0,
+                                "Height": 55.0,
+                                "Width": 440.0
+                            }
+                        ],
+                        "MaxHeight": 55.0,
+                        "MinTop": 249.0
+                    },
+                    {
+                        "LineText": "Marcus Mathiesen",
+                        "Words": [
+                            {
+                                "WordText": "Marcus",
+                                "Left": 507.0,
+                                "Top": 386.0,
+                                "Height": 24.0,
+                                "Width": 96.0
+                            },
+                            {
+                                "WordText": "Mathiesen",
+                                "Left": 615.0,
+                                "Top": 385.0,
+                                "Height": 25.0,
+                                "Width": 138.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 385.0
+                    },
+                    {
+                        "LineText": "Knudensvej 7 9900 Frederikshavn",
+                        "Words": [
+                            {
+                                "WordText": "Knudensvej",
+                                "Left": 507.0,
+                                "Top": 459.0,
+                                "Height": 31.0,
+                                "Width": 156.0
+                            },
+                            {
+                                "WordText": "7",
+                                "Left": 676.0,
+                                "Top": 460.0,
+                                "Height": 23.0,
+                                "Width": 13.0
+                            },
+                            {
+                                "WordText": "9900",
+                                "Left": 702.0,
+                                "Top": 460.0,
+                                "Height": 24.0,
+                                "Width": 67.0
+                            },
+                            {
+                                "WordText": "Frederikshavn",
+                                "Left": 781.0,
+                                "Top": 459.0,
+                                "Height": 25.0,
+                                "Width": 192.0
+                            }
+                        ],
+                        "MaxHeight": 31.0,
+                        "MinTop": 459.0
+                    },
+                    {
+                        "LineText": "Marcus Mathiesen",
+                        "Words": [
+                            {
+                                "WordText": "Marcus",
+                                "Left": 507.0,
+                                "Top": 597.0,
+                                "Height": 24.0,
+                                "Width": 96.0
+                            },
+                            {
+                                "WordText": "Mathiesen",
+                                "Left": 615.0,
+                                "Top": 596.0,
+                                "Height": 25.0,
+                                "Width": 138.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 596.0
+                    },
+                    {
+                        "LineText": "71757709",
+                        "Words": [
+                            {
+                                "WordText": "71757709",
+                                "Left": 507.0,
+                                "Top": 671.0,
+                                "Height": 24.0,
+                                "Width": 137.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 671.0
+                    },
+                    {
+                        "LineText": "Marcusmullermat@hotmail.com",
+                        "Words": [
+                            {
+                                "WordText": "Marcusmullermat@hotmail.com",
+                                "Left": 507.0,
+                                "Top": 744.0,
+                                "Height": 30.0,
+                                "Width": 436.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 744.0
+                    },
+                    {
+                        "LineText": "Frederikshavn",
+                        "Words": [
+                            {
+                                "WordText": "Frederikshavn",
+                                "Left": 507.0,
+                                "Top": 870.0,
+                                "Height": 25.0,
+                                "Width": 192.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 870.0
+                    },
+                    {
+                        "LineText": "20ø",
+                        "Words": [
+                            {
+                                "WordText": "20ø",
+                                "Left": 507.0,
+                                "Top": 945.0,
+                                "Height": 25.0,
+                                "Width": 50.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 945.0
+                    },
+                    {
+                        "LineText": "Nedgravet",
+                        "Words": [
+                            {
+                                "WordText": "Nedgravet",
+                                "Left": 508.0,
+                                "Top": 1019.0,
+                                "Height": 30.0,
+                                "Width": 142.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 1019.0
+                    },
+                    {
+                        "LineText": "4000 liter",
+                        "Words": [
+                            {
+                                "WordText": "4000",
+                                "Left": 506.0,
+                                "Top": 1094.0,
+                                "Height": 24.0,
+                                "Width": 68.0
+                            },
+                            {
+                                "WordText": "liter",
+                                "Left": 586.0,
+                                "Top": 1093.0,
+                                "Height": 25.0,
+                                "Width": 53.0
+                            }
+                        ],
+                        "MaxHeight": 25.0,
+                        "MinTop": 1093.0
+                    },
+                    {
+                        "LineText": "Herning Beholder Fabrik A/S",
+                        "Words": [
+                            {
+                                "WordText": "Herning",
+                                "Left": 507.0,
+                                "Top": 1167.0,
+                                "Height": 31.0,
+                                "Width": 105.0
+                            },
+                            {
+                                "WordText": "Beholder",
+                                "Left": 625.0,
+                                "Top": 1167.0,
+                                "Height": 25.0,
+                                "Width": 122.0
+                            },
+                            {
+                                "WordText": "Fabrik",
+                                "Left": 757.0,
+                                "Top": 1167.0,
+                                "Height": 25.0,
+                                "Width": 83.0
+                            },
+                            {
+                                "WordText": "A/S",
+                                "Left": 849.0,
+                                "Top": 1168.0,
+                                "Height": 26.0,
+                                "Width": 44.0
+                            }
+                        ],
+                        "MaxHeight": 31.0,
+                        "MinTop": 1167.0
+                    },
+                    {
+                        "LineText": "1984",
+                        "Words": [
+                            {
+                                "WordText": "1984",
+                                "Left": 508.0,
+                                "Top": 1242.0,
+                                "Height": 24.0,
+                                "Width": 66.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1242.0
+                    },
+                    {
+                        "LineText": "324450",
+                        "Words": [
+                            {
+                                "WordText": "324450",
+                                "Left": 507.0,
+                                "Top": 1316.0,
+                                "Height": 24.0,
+                                "Width": 102.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1316.0
+                    },
+                    {
+                        "LineText": "01-000",
+                        "Words": [
+                            {
+                                "WordText": "01-000",
+                                "Left": 507.0,
+                                "Top": 1390.0,
+                                "Height": 24.0,
+                                "Width": 94.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1390.0
+                    },
+                    {
+                        "LineText": "Fyringsolie",
+                        "Words": [
+                            {
+                                "WordText": "Fyringsolie",
+                                "Left": 507.0,
+                                "Top": 1464.0,
+                                "Height": 30.0,
+                                "Width": 147.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 1464.0
+                    },
+                    {
+                        "LineText": "Tanken er tømt og påfyldningsstuds samt udluftningsrør er afmonteret",
+                        "Words": [
+                            {
+                                "WordText": "Tanken",
+                                "Left": 505.0,
+                                "Top": 1590.0,
+                                "Height": 25.0,
+                                "Width": 100.0
+                            },
+                            {
+                                "WordText": "er",
+                                "Left": 617.0,
+                                "Top": 1596.0,
+                                "Height": 19.0,
+                                "Width": 27.0
+                            },
+                            {
+                                "WordText": "tømt",
+                                "Left": 652.0,
+                                "Top": 1592.0,
+                                "Height": 24.0,
+                                "Width": 65.0
+                            },
+                            {
+                                "WordText": "og",
+                                "Left": 727.0,
+                                "Top": 1596.0,
+                                "Height": 25.0,
+                                "Width": 31.0
+                            },
+                            {
+                                "WordText": "påfyldningsstuds",
+                                "Left": 771.0,
+                                "Top": 1587.0,
+                                "Height": 34.0,
+                                "Width": 231.0
+                            },
+                            {
+                                "WordText": "samt",
+                                "Left": 1013.0,
+                                "Top": 1592.0,
+                                "Height": 23.0,
+                                "Width": 67.0
+                            },
+                            {
+                                "WordText": "udluftningsrør",
+                                "Left": 1091.0,
+                                "Top": 1590.0,
+                                "Height": 31.0,
+                                "Width": 193.0
+                            },
+                            {
+                                "WordText": "er",
+                                "Left": 1293.0,
+                                "Top": 1596.0,
+                                "Height": 19.0,
+                                "Width": 28.0
+                            },
+                            {
+                                "WordText": "afmonteret",
+                                "Left": 1330.0,
+                                "Top": 1590.0,
+                                "Height": 25.0,
+                                "Width": 153.0
+                            }
+                        ],
+                        "MaxHeight": 34.0,
+                        "MinTop": 1587.0
+                    },
+                    {
+                        "LineText": "(afskåret) og afblændet",
+                        "Words": [
+                            {
+                                "WordText": "(afskåret)",
+                                "Left": 507.0,
+                                "Top": 1624.0,
+                                "Height": 31.0,
+                                "Width": 130.0
+                            },
+                            {
+                                "WordText": "og",
+                                "Left": 649.0,
+                                "Top": 1633.0,
+                                "Height": 24.0,
+                                "Width": 31.0
+                            },
+                            {
+                                "WordText": "afblændet",
+                                "Left": 692.0,
+                                "Top": 1627.0,
+                                "Height": 24.0,
+                                "Width": 140.0
+                            }
+                        ],
+                        "MaxHeight": 31.0,
+                        "MinTop": 1624.0
+                    },
+                    {
+                        "LineText": "14-10-2022",
+                        "Words": [
+                            {
+                                "WordText": "14-10-2022",
+                                "Left": 508.0,
+                                "Top": 1702.0,
+                                "Height": 24.0,
+                                "Width": 155.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1702.0
+                    },
+                    {
+                        "LineText": "24441",
+                        "Words": [
+                            {
+                                "WordText": "24441",
+                                "Left": 507.0,
+                                "Top": 1776.0,
+                                "Height": 24.0,
+                                "Width": 84.0
+                            }
+                        ],
+                        "MaxHeight": 24.0,
+                        "MinTop": 1776.0
+                    },
+                    {
+                        "LineText": "Fensmark Service Miljø ApS Kildebrøndsvej 6 4684 Holmegaard",
+                        "Words": [
+                            {
+                                "WordText": "Fensmark",
+                                "Left": 367.0,
+                                "Top": 2194.0,
+                                "Height": 24.0,
+                                "Width": 132.0
+                            },
+                            {
+                                "WordText": "Service",
+                                "Left": 510.0,
+                                "Top": 2194.0,
+                                "Height": 24.0,
+                                "Width": 99.0
+                            },
+                            {
+                                "WordText": "Miljø",
+                                "Left": 622.0,
+                                "Top": 2194.0,
+                                "Height": 30.0,
+                                "Width": 59.0
+                            },
+                            {
+                                "WordText": "ApS",
+                                "Left": 691.0,
+                                "Top": 2195.0,
+                                "Height": 29.0,
+                                "Width": 52.0
+                            },
+                            {
+                                "WordText": "Kildebrøndsvej",
+                                "Left": 781.0,
+                                "Top": 2194.0,
+                                "Height": 30.0,
+                                "Width": 198.0
+                            },
+                            {
+                                "WordText": "6",
+                                "Left": 992.0,
+                                "Top": 2195.0,
+                                "Height": 23.0,
+                                "Width": 14.0
+                            },
+                            {
+                                "WordText": "4684",
+                                "Left": 1043.0,
+                                "Top": 2195.0,
+                                "Height": 23.0,
+                                "Width": 67.0
+                            },
+                            {
+                                "WordText": "Holmegaard",
+                                "Left": 1123.0,
+                                "Top": 2194.0,
+                                "Height": 30.0,
+                                "Width": 164.0
+                            }
+                        ],
+                        "MaxHeight": 30.0,
+                        "MinTop": 2194.0
+                    },
+                    {
+                        "LineText": "Telefon: 71779977 Email: kontakt@fensmark.dk CVR 39492148",
+                        "Words": [
+                            {
+                                "WordText": "Telefon:",
+                                "Left": 361.0,
+                                "Top": 2235.0,
+                                "Height": 23.0,
+                                "Width": 109.0
+                            },
+                            {
+                                "WordText": "71779977",
+                                "Left": 484.0,
+                                "Top": 2235.0,
+                                "Height": 23.0,
+                                "Width": 135.0
+                            },
+                            {
+                                "WordText": "Email:",
+                                "Left": 658.0,
+                                "Top": 2235.0,
+                                "Height": 23.0,
+                                "Width": 80.0
+                            },
+                            {
+                                "WordText": "kontakt@fensmark.dk",
+                                "Left": 752.0,
+                                "Top": 2235.0,
+                                "Height": 28.0,
+                                "Width": 300.0
+                            },
+                            {
+                                "WordText": "CVR",
+                                "Left": 1088.0,
+                                "Top": 2236.0,
+                                "Height": 22.0,
+                                "Width": 54.0
+                            },
+                            {
+                                "WordText": "39492148",
+                                "Left": 1154.0,
+                                "Top": 2235.0,
+                                "Height": 23.0,
+                                "Width": 136.0
+                            }
+                        ],
+                        "MaxHeight": 28.0,
+                        "MinTop": 2235.0
+                    }
+                ],
+                "HasOverlay": true,
+                "Message": "Total lines: 40"
+            },
+            "TextOrientation": "0",
+            "FileParseExitCode": 1,
+            "ParsedText": "Grundejer:\r\nUdførelsesadresse:\r\nRekvirent:\r\nTelefon:\r\nEmailadresse:\r\nKommune:\r\nMatrikel:\r\nPlacering:\r\nStørrelse:\r\nFabrikat/Type:\r\nEtableringsår:\r\nFabrikationsnr.:\r\nTypenr:\r\nIndhold:\r\nOpgave udført:\r\nDato for udførelse:\r\nInternt sagsnr.:\r\nNoter:\r\nFensmark A\r\nSløjfningsattest\r\nMarcus Mathiesen\r\nKnudensvej 7 9900 Frederikshavn\r\nMarcus Mathiesen\r\n71757709\r\nMarcusmullermat@hotmail.com\r\nFrederikshavn\r\n20ø\r\nNedgravet\r\n4000 liter\r\nHerning Beholder Fabrik A/S\r\n1984\r\n324450\r\n01-000\r\nFyringsolie\r\nTanken er tømt og påfyldningsstuds samt udluftningsrør er afmonteret\r\n(afskåret) og afblændet\r\n14-10-2022\r\n24441\r\nFensmark Service Miljø ApS Kildebrøndsvej 6 4684 Holmegaard\r\nTelefon: 71779977 Email: kontakt@fensmark.dk CVR 39492148\r\n",
+            "ErrorMessage": "",
+            "ErrorDetails": ""
+        }
+    ],
+    "OCRExitCode": 1,
+    "IsErroredOnProcessing": false,
+    "ProcessingTimeInMilliseconds": "1281",
+    "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}

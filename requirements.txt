@@ -1,3 +1,5 @@
 coverage
 pdf2image
-pytesseract
+requests
+coloredlogs
+selenium
