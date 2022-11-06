@@ -1,6 +1,9 @@
 # Standard library
 import time
 
+# Application libraries
+from logger import getLogger
+
 # Third party libraries
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
@@ -16,7 +19,7 @@ class FillOutForm:
     def __init__(self, data: dict):
         self.options = Options()
         self.options.headless = False
-        
+        self.logger = getLogger(__file__)
         self.data = data
         
         
@@ -39,11 +42,22 @@ class FillOutForm:
         self.insert_adress(self.data["udførelsesadresse"])
         self.click_next()
         self.click_next()
-        time.sleep(2)
+        self.logger.info("Waiting for page to load")
+        time.sleep(4)
         self.add_removal_of_oil_tank()
+        self.logger.info("Added removal of oil tank")
+        self.click_next()
+        self.click_next()
+        self.fill_in_contact_info()
+        self.logger.info("Filled out contact form")
+        self.click_next()
+        
     
     def add_removal_of_oil_tank(self):
-        search_field = self._find_button_element_xpath('//input[@role="combobox"]')
+        search_field = self._find_element_xpath('//input[@class="button button-secondary ng-star-inserted"]')
+        search_field.click()
+        
+        search_field = self._find_element_xpath('//input[@role="combobox"]/ancestor::div')
         search_field.send_keys("olie")
         
         
@@ -72,12 +86,15 @@ class FillOutForm:
     
     def insert_adress(self, adress):
         element = self._find_element_xpath('//input[@placeholder="Skriv adresse"]')
-        element.send_keys(adress[:-3])
+        element.send_keys(adress)
         
         time.sleep(0.5)
         
-        tkinter.messagebox.askokcancel("Adress", message="Please choose the correct adress and press ok to continue")
-        time.sleep(0.5)
+        element = self._find_button_element_xpath('//input[@placeholder="Skriv adresse"]/ancestor::div//div//*')
+        element.click()
+        
+        # tkinter.messagebox.askokcancel("Adress", message="Please choose the correct adress and press ok to continue")
+        # time.sleep(0.5)
         
     def get_away_cookie_policy(self):
         element = self._find_button_element_xpath('//label[@for="hideGDPR-checkbox"]')
@@ -98,5 +115,29 @@ class FillOutForm:
         
         element = self._find_button_element_xpath('//button[@class="button button-primary btn-tooltip px-7"]')
         element.click()
+        
+    def fill_in_contact_info(self):
+        owner = self._find_element_xpath('//input[@id="formularElements_anlaegEjerKontakt_navn"]')
+        owner.send_keys(self.data["grundejer"])
+        
+        adress = self._find_element_xpath('//input[@id="formularElements_anlaegEjerKontakt_adresse"]')
+        adress.send_keys(self.data["udførelsesadresse"])
+        
+        phone = self._find_element_xpath('//input[@id="formularElements_anlaegEjerKontakt_telefon"]')
+        phone.send_keys(self.data["telefon"])
+        
+        email = self._find_element_xpath('//input[@id="formularElements_anlaegEjerKontakt_email"]')
+        email.send_keys(self.data["emailadresse"])
+        
+        element = self._find_element_xpath('//input[@for="formularElements_grundEjerLigAnlaegEjerja"]')
+        element.click()
+        
+        element = self._find_element_xpath('//input[@for="formularElements_anlaegBrugerLigAnlaegEjerja"]')
+        element.click()
+        
+        
+        
+        
+        
         
         
